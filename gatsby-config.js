@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `John Aaron Nelson - Blog`,
+    title: `John Aaron Nelson`,
     author: `John Nelson`,
     description: `Web Developer | Clearbit | Chattahooligan`,
     siteUrl: `https://johnaaronnelson.com/`,
