@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://johnaaronnelson.com/`,
     social: {
       twitter: `johnaaronnelson`,
+      github: `celador`,
     },
   },
   plugins: [

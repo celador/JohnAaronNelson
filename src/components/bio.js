@@ -1,8 +1,22 @@
 import React from "react"
 import { StaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import twitter from "./../../content/assets/twitter.svg"
+import github from "./../../content/assets/github.svg"
+import clearbit from "./../../content/assets/clearbit.webp"
 
 import { rhythm } from "../utils/typography"
+
+const linkStyle = {
+  marginRight: rhythm(1 / 4),
+  boxShadow: `none`,
+}
+
+const iconStyle = {
+  marginBottom: 0,
+  // borderRadius: `100%`,
+  maxWidth: 20,
+}
 
 function Bio() {
   return (
@@ -23,7 +37,7 @@ function Bio() {
               style={{
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
-                minWidth: 50,
+                minWidth: 75,
                 borderRadius: `100%`,
               }}
               imgStyle={{
@@ -33,9 +47,18 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who lives and works in
               Chattanooga, building things for Clearbit.
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              <br />
+              <a
+                style={linkStyle}
+                href={`https://twitter.com/${social.twitter}`}
+              >
+                <img src={twitter} style={iconStyle} />
+              </a>{" "}
+              <a style={linkStyle} href={`https://github.com/${social.github}`}>
+                <img src={github} style={iconStyle} />
+              </a>{" "}
+              <a style={linkStyle} href="https://clearbit.com/about">
+                <img src={clearbit} style={iconStyle} />
               </a>
             </p>
           </div>
@@ -49,7 +72,7 @@ const bioQuery = graphql`
   query BioQuery {
     avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
-        fixed(width: 50, height: 50) {
+        fixed(width: 75, height: 75) {
           ...GatsbyImageSharpFixed
         }
       }
@@ -59,6 +82,7 @@ const bioQuery = graphql`
         author
         social {
           twitter
+          github
         }
       }
     }
