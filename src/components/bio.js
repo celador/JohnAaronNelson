@@ -45,7 +45,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in
+              Written by <strong>{author}</strong>, who lives and works in
               Chattanooga, building things for Clearbit.
               <br />
               <a
