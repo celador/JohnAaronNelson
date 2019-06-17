@@ -2,12 +2,54 @@
 title: "The Lead Developer - London - 2019"
 date: "2019-06-11T09:00:00Z"
 layout: post
-draft: true
+draft: false
 path: "/the-lead-developer/"
 description: "Conference notes"
 tags:
   - "Conference"
 ---
+
+# Abstract
+
+Clearbit's use of formal feedback is a foundational aspect of the company, because our leadership recognizes that keeping our teams mentally healthy is critical to our success. We make sure we feel safe sharing and receiving feedback by insuring it's objective, meaningful, and actionable. The benefits of feedback and discussion on how to perform the process were key parts of The Lead Dev. There were inspirational posters posted ubiquitously around the theatre, the keynote was about it, and it was sprinkled throughout many other talks.
+
+Emotional safety is key to making sure the feedback loop is beneficial. We need to feel we have a sense of belonging, we're working towards a goal, we have a sense of choice, things are fair, predictable, and we feel a sense of importance. Tuckman's cycle is a _cycle_. It is something we must practice and continually perform, or things break down.
+
+Another big theme of the conference was that we have to practice politics. We would like to think of ourselves as rational creatures who only make decisions based on facts and logic. Yet, we are primarily emotional creatures. We make decisions based on how we feel, so we have to tell the truth in such a way that the person listening can hear it. We have tell stories. We have to sell our story. Understanding feelings is key to storytelling. We must practice empathy for others, and ourselves, to tell a good and truthful story. Our stories are our truth.
+
+Regularly, OKR's were discussed: explained, panned, and praised. People talked about how they need to be on a team and organizational level, not an individual level. That they need to be aligned at all levels, but not cascading. Most often, they should be from the bottom, up. They need to be simple, precise, meaningful, and actionable. They are important as a guiding light, but shouldn't be overly stressed as individuals and teams naturally pivot during cycles and the end goal can drift from the original intention. Quite often teams read their OKR's at the end of a cycle and they seem foreign to where the team is.
+
+In order to get the best out of people, good teamwork is key. We need to be able to cue off of others, almost at an instinctual level, to be in sync. Teams that are out of sync with one another do not function. Yet again, we find that we work best when we feel the best, when we think the least, when we can follow our goals at an emotional level instead of a rational one.
+
+How do you get developers to write documentation? It may seem offensive, but we can learn a lot about how to treat others through dog training. Positive feedback, where the person being trained wants to perform well, is the best way to achieve lasting positive effects. We should have a clear "Goal -> Action -> Reward" process to train effectively. Have "Minimum Viable Goals" that can be achieved and rewarded. Don't expect someone to do the entire thing the first time. Make sure every step towards the goal is easily achievable. Pick the reward that the learner wants. The learner should choose the reward, because they know what motivates them better than anyone else.
+
+Don't impute dark and fuzzy motivations. Simple rewards work best! We decide what to do on a moment by moment basis on what we find useful, rewarding, or mitigating problems in the moment; short term motivations are much more powerful than long term goals. Think clearly about everyone's goals. Write it down. Make sure the goals are precise, actionable, testable, rewardable. Figure out rewards together to commit for the long term.
+
+In order to get teams to work best together we need rituals, meetings, a social element, shared experiences, and real world scenarios. We are social, emotional creatures. We need to have a sense of belonging in a place and experience to be comfortable enough to learn what we need to learn. We work least well when scenarios are abstract and not realistic, because we can't feel our way through to the answer. SCRUM rituals are a good way to achieve this rhythm and feedback cycle.
+
+To be successful during a period of rapid growth: be clear on the goal, communicate openly, hire responsibly, and care for your people. To keep people productive, have a structure for your work environment, but allow people flexibility for when they wish to engage.
+
+Hiring is hard. Diverse groups achieve the best results and we all seek diversity in the workplace, but how do we achieve it? A fully anonymous application process didn't solve this. The biggest complaint from candidates was that they weren't able to demonstrate their soft-skills. We need a human connection to feel we are being heard and understood. Diversity also means that we acknowledge not everyone has the time to do lengthy at-home exercises. Many people have family or medical reasons for why they don't have expendable free-time. We need to be genuine about our drive for diversity. Virtue signaling is gross.
+
+To achieve diversity, we cannot exclude. We need to listen and accept people where they are. Diversity is being invited to the party. Inclusion is feeling like you belong at the party. Sometimes the best candidate for the role isn't the best person to hire. We need to setup our candidates for success.
+
+A fully remote, volunteer based team could be the answer to a dysfunctional team dynamic. Being "on call" is a great example of this. On-call can be really stressful because of the nature of the problem. Because of our emotions, we want to protect ourselves and can do things that are ultimately harmful. To neutralize the threat, we need to have processes and documentation in place to empower the individual. Sometimes this may also mean removing some warnings or alerts. Nothing can replace a person who can answer your questions. This can be done remotely, through Slack, but there should be someone available. We need to understand our customers, but optimize for our employees.
+
+At the end of day one, I learned that politics shouldn't be a dirty word. Politics is "Making friends and telling stories". We need to constantly ~~negotiate~~ cooperate with everyone so everyone can get what they want. Good managers protect their people by shielding them from a lot of the negative aspects of this cooperation, but it doesn't mean they should be a "shit umbrella", they should be a "head shield".
+
+Everyone at the conference wants to be a good leader. But, what is "Leadership"? Leadership is the _ability_ to lead. It is the _act_ of leading a group of people. Leadership is an action, not a state of being. **Anyone** can be a leader. All it takes is a single action to practice leadership. Leadership can be both informal, through actions, or formal, through position and titles. We start off as a maker. To be a leader, we need to be a multiplier.
+
+There (should) be a trident path for improvement: Technical Leader, Individual Contributor, People Management. A technical leader spends 75% of their time focused solely on technical issues that affect multiple people. There are four different flavors of technical leadership: Knowledge Cultivator, The Advocate, The Connector, and The Storyteller.
+
+Security (like passwords, not feelings) is important for long term success. We should foster a culture of security, and still practice empathy when people fall short. Culture is key to this, so maybe have security ambassadors that move between teams to encourage good security practices. Also, Shor's Algorithm means that none of our current communications will be secure forever. Quantum decryption is coming in the not too distant future, and all of our bits are being stored somewhere, so nothing is ever totally secure, so practice empathy.
+
+Estimates are hard. There are five things we can do to improve our estimates.
+
+1. Make and keep the commitments you can. Give quality demos
+2. Be transparent for why we missed our estimation.
+3. Don't overdo things. Have a product mindset. This is a business, not play.
+4. Show empathy. Every product has stakeholders, like the CEO.
+5. Educate them on the complexity of estimation. Use a semi-outlandish example.
 
 # Tuesday 11 June
 
@@ -22,36 +64,42 @@ bit.ly/ld-slack
 #LeadDevLondon @TheLeadDev
 All the videos wil be available in a couple weeks on Youtube
 
-###### Tue Jun 11 10:12:38 BST 2019 John Wards - The Economist - Sponsor
-
-Sponsoring is part of the plan to promote The Economist as a destination for techies. They are in-sourcing tech and want to learn how to manage techies better
-Visit the O'Reilly booth to register for swag
-
-###### Tue Jun 11 10:14:52 BST 2019 - Lara Hogan introduction
-
 ## Navigating team friction - 10:10 - Lara Hogan
 
 ###### Tue Jun 11 10:16:25 BST 2019
 
-Surgeons...
-Study about surgery outcomes. Surgeons improve the better they get at their home hospital.
-Familiarity with the team and processes has more to do with how good they are at their hob.
-Teams are important.
-She talked about her journey from front end dev to manager with increasing responsibilities
-IT is a privilege to come together with a team to ship stuff
-Tuckman's stages of group development
-Forming - Comes together in a new state. Team norms haven't been ironed out
-Storming - Friction happens.  
-Norming - Things iron themselves out. Individuals iron out differences
-Performing - Where Flow happens
-Every time changes happen, a new cycle can re-start
+Studies done in the UK show that Surgeons improve over time only at their "home" hospital. Their outcomes remain fairly flat over time at hospitals other than their home hospital.
 
-Storming can be so frustrating
-This is the critical step
+Familiarity with the team and processes has more to do with how good they are at their job and how much they improve over time than the amount of time they've been a surgeon.
 
-1 Brains - Prefrontal cortex... deep complex problem solving. Amygdala - threats and rewards. IF there are threats, it tells the prefrontal cortex to shut down. Our Amygdala acts fast, so it shuts down the reasoning part of our brain.
+Teams are important!
 
-6 core needs to feel safe and comfortable at work - [BICEPS](bit.ly/biceps-core-needs)
+One of the best things about our industry is working in a team and having them help you improve over time. It is a privilege to come together with a team to ship stuff
+
+Tuckman's 4 stages of group development
+
+1. Forming - Comes together in a new state. Team norms haven't been ironed out
+2. Storming - Friction happens.
+3. Norming - Things iron themselves out. Individuals iron out differences
+4. Performing - Where Flow happens
+
+Every time changes happen, a new cycle can re-start. This can happen with teams who have worked together for a long time.
+
+Storming can be so frustrating, but it is the critical step.
+
+Here are three things to keep in mind while storming
+
+1. Storming...
+
+Brains are interesting things.
+
+Out Prefrontal cortex is responsible for deep complex problem solving. We work in tech; we would like to think we are rational creatures, but we often are not.
+
+Our Amygdala responds to threats and rewards. IF there are threats, we need to act fast to respond to the threat. Our amygdala tells the prefrontal cortex to shut down. Our Amygdala acts fast and shuts down the reasoning part of our brain.
+
+Safety is core to making sure those threats ultimately turn into something positive.
+
+There are 6 core needs to feel safe and comfortable at work - [BICEPS](bit.ly/biceps-core-needs)
 
 1. Belonging - Community, connection. We don't want to feel left out. It can be just as threatening as physical pain.
 2. Improvement or progress towards a goal. We need to feel like we're contributing to the overall
@@ -65,30 +113,33 @@ Understanding core needs is a "superpower"
 Core need changes lead to Storming
 Feedback leads to norming
 
-2 Feeback - [Feedback equation](bit.ly/FeedbackEquation)
+2. Feedback - [Feedback equation](bit.ly/FeedbackEquation)
 
-1. Observation of a behavior - Factual observation
-2. Impact of behavior - Share how you feel in a way that they care about. Talk to them about what they care about and help them learn how to achieve that. Help them impact their goals.
-3. Question ~or Request~ - Ask a genuine and curious open question about why they are doing that, don't request a specific behavior.
+1) Observation of a behavior - Factual observation
+2) Impact of behavior - Share how you feel in a way that they care about. Talk to them about what they care about and help them learn how to achieve that. Help them impact their goals.
+3) Question ~or Request~ - Ask a genuine and curious open question about why they are doing that, don't request a specific behavior.
 
 Think about the preferred medium. Usually verbal, often textual. Let the person receiving the feedback choose their preferred method.
 
-3 Team Processes - leads to performing
-Iterate on the processes to make sure they're working for everyone
-Retros are important! Normalizes talking about team health. When the hard stuff is met with understanding, it helps people feel acknowledged.  
-Have a living document that states the expectations and processes of the team
-Team Charter
-Have a vision statement for the charter provides a "north star"
+3. Team Processes - leads to performing
+   Iterate on the processes to make sure they're working for everyone
+   Retros are important! Normalizes talking about team health. When the hard stuff is met with understanding, it helps people feel acknowledged.  
+   Have a living document that states the expectations and processes of the team
+   Team Charter
+   Have a vision statement for the charter provides a "north star"
 
 Engineering Manager - Tech Lead - Product Manager
 overlap of these three drives the "why"
 
 Product Manager and Tech Lead scope and estimate product work
 
-Take care of yourself if things don't seem to be improving. You can't solve unhealthy or unsafe environments. Talk to someone you trust about what you've tried and need.
+Take care of yourself if things don't seem to be improving. You can't solve unhealthy or unsafe environments.
 
-This is a cycle. Iterate and improve.
-Lara Hogan Resilient Management
+Talk to someone you trust about what you've tried and need.
+
+Ultimately, this is a cycle, not a one time thing. Iterate and improve!
+
+"Resilient Management" by Lara Hogan
 
 ## I can’t do that for you Dave: undefined is not a function - 10:40 - Asim Hussain
 
@@ -212,10 +263,10 @@ Discover the model uses neural networks to derive a model from a set of data. Le
 
 Always must validate the model
 
-"Apply techniques to enable capabilities (decision making) in support of applications (achiueving specific goals with self-direction and autonomy)
+"Apply techniques to enable capabilities (decision making) in support of applications (achieving specific goals with self-direction and autonomy)
 
 2. How do we describe and build systems where decision making is delegated to machines?
-   ... ?
+   ...?
 
 ## Guiding self-organizing teams - 12:25 - Rebecca Hill
 
@@ -239,11 +290,11 @@ People come first. They take time. _They are work it_
 
 ## 12/10, Excellent doggo: the power of positive transformation - 12:35 - Heidi Waterhouse
 
-Best first day talk
+(2nd) Best first day talk
 
 ###### Tue Jun 11 12:37:18 BST 2019
 
-PIP (start job searching now)
+PIP! (start job searching now)
 Heelwork to music (video)... Cue the dog!
 How do I get developers to write docs??
 Behavior: A team effort to meed a shared goal.
@@ -402,7 +453,7 @@ Politics doesn't have to be gross.
 
 Eiffel did networking and self-promotion in order to get his tower built
 
-Politics is "Making friends and telling stores"
+Politics is "Making friends and telling stories"
 
 Maybe you'll make friends with someone who has power some day, maybe not. But it's good nevertheless
 
@@ -586,26 +637,27 @@ They've chosen Flutter...
 
 ###### Wed Jun 12 11:42:07 BST 2019
 
-Security should be a design constraint.  It's everyone's job.
+Security should be a design constraint. It's everyone's job.
 
 3 elements of security culture
-1) Learning anb Growth
-    * We don't want to shame people.  Shame causes people to disengage or be aggressive.
-    * We want to learn, not shame.
-2) Empathy
-    * There are some instances where there are absolutes, otherwise we should exercise empathy and understanding about why.
-3) Responsibility
-    * Security is everyone's job.  
-    * developers have the most context.  we should expect them to make the right decisions. 
-    * use libraries to reduce decisions
+
+1. Learning anb Growth
+   - We don't want to shame people. Shame causes people to disengage or be aggressive.
+   - We want to learn, not shame.
+2. Empathy
+   - There are some instances where there are absolutes, otherwise we should exercise empathy and understanding about why.
+3. Responsibility
+   - Security is everyone's job.
+   - developers have the most context. we should expect them to make the right decisions.
+   - use libraries to reduce decisions
 
 Find security-interested people.
 Rotations! Move people around so you can expand your context and domain expertise
-Have Security Advocates or Security Champions.  Deputize them.  
+Have Security Advocates or Security Champions. Deputize them.
 
-Build a culture of learning.  Make space for learning.  Block off time on your schedule.
-Discussion and presentation forums, like brown bag lunch.. 
-Tabletops and Game Days.  Like a DnD game, but with work problems...
+Build a culture of learning. Make space for learning. Block off time on your schedule.
+Discussion and presentation forums, like brown bag lunch..
+Tabletops and Game Days. Like a DnD game, but with work problems...
 Pretend you destroy different production services
 Have a shipped/Fixed channel in Slack; pre-shipped?
 
@@ -616,25 +668,21 @@ Process - Security Review - should not be stressful
 ###### Wed Jun 12 12:02:47 BST 2019
 
 Shor's algorithm is a quantum algorithm
-Post quantum cryptography 
+Post quantum cryptography
 
-All your RSA stuff, while maybe secure now, will not be secure in the near future, and since everything is being recorded, it's not really secure now.  
+All your RSA stuff, while maybe secure now, will not be secure in the near future, and since everything is being recorded, it's not really secure now.
 
----
-sli.do : theleaddev
-
----
-
-## Navigating front-end architecture like a Neopian - 13:30 - Julia Nguyen 
+## Navigating front-end architecture like a Neopian - 13:30 - Julia Nguyen
 
 ###### Wed Jun 12 13:27:18 BST 2019
-__So yeah!__  x29
 
-She's talked a lot about her story... her privilege, etc...  and more about what job's she's had, throwing around some jargon.
+**So yeah!** x29
 
-She's noticed that slow loading pages cause "problems".  Also, there's cache invalidation issues.
+She's talked a lot about her story... her privilege, etc... and more about what job's she's had, throwing around some jargon.
 
-There's similarities with engineering! 
+She's noticed that slow loading pages cause "problems". Also, there's cache invalidation issues.
+
+There's similarities with engineering!
 
 Good performance and accessibility is good!
 
@@ -642,25 +690,27 @@ Good performance and accessibility is good!
 
 Have some Framework Criteria...
 
-Vue won!  Hooray!
+Vue won! Hooray!
 
 More Neopets talk
 
-Chose React + Flow for my open source stuff.  "React on Rails" framework
+Chose React + Flow for my open source stuff. "React on Rails" framework
 
-Storybook is awesome.  We have a component library!
+Storybook is awesome. We have a component library!
 
 We have documentation!
 
-Internationalization is hard, but important.  
+Internationalization is hard, but important.
 
-She talks a lot about Neopets.  I've learned more about Neopets than I ever wanted to know.  Lots of Neopets and her teenage years.  
+She talks a lot about Neopets. I've learned more about Neopets than I ever wanted to know. Lots of Neopets and her teenage years.
 
 She was the lead engineer at Headspace... ... ...
 
-Yay for greenfield projects!  She got to make a component library!
+Yay for greenfield projects! She got to make a component library!
 
-Now she uses JSDoc to write documentation.  
+Now she uses JSDoc to write documentation.
+
+This was the worst talk...
 
 ## How long is a piece of string: the key to solving the conundrum of software estimation. - 14:00 - Jonathan Rigby - @JonathanRigby
 
@@ -668,37 +718,37 @@ Now she uses JSDoc to write documentation.
 
 Hofstadtler's law... #NoEstimates
 
-Estimation is really hard.  There's lots of problems with it.
+Estimation is really hard. There's lots of problems with it.
 
 The key ingredient for estimation is trust
 
 5 things to maximize trust
 
-1) Make and keep the commitments you can.  Give quality demos
-2) Be transparent for why we missed our estimation.
-3) Don't overdo things.  Have a product mindset.  This is a business, not play.
-4) Show empathy.  Product has stakeholders, like the CEO.
-5) Educate them on the complexity of estimation.  Use a semi-outlandish example.
+1. Make and keep the commitments you can. Give quality demos
+2. Be transparent for why we missed our estimation.
+3. Don't overdo things. Have a product mindset. This is a business, not play.
+4. Show empathy. Product has stakeholders, like the CEO.
+5. Educate them on the complexity of estimation. Use a semi-outlandish example.
 
 ## Silence isn't golden, it's deadly! - 14:10 - Paula Kennedy - @PaulaLKennedy
 
 ###### Wed Jun 12 14:17:41 BST 2019
 
-They have 30% of their team that feels they're not part of their team and they're trying to solve their communication issues with all hands meetings and retros.  
+They have 30% of their team that feels they're not part of their team and they're trying to solve their communication issues with all hands meetings and retros.
 
-"Virtual off-site" where everyone gets on Zoom for an entire day. 
+"Virtual off-site" where everyone gets on Zoom for an entire day.
 
 Google's "Project Aristotle"
 
-Use "Active Listening" 
+Use "Active Listening"
 
-"Mindful Communication"  talk about the other person.. 
+"Mindful Communication" talk about the other person..
 
 Have an Off-Site
 
-They have a team mascot, which is basically like a Conch; "I have the Conch"
+They have a team mascot, a Goose, which is basically like the Conch from _Lord of the Flies_; "I have the Conch"
 
-Don't have individual Slack channels.  Use public channels, with threads.
+Don't have individual Slack channels. Use public channels, with threads.
 
 Book club didn't work.
 
@@ -708,73 +758,71 @@ OKR's didn't work, mostly because they didn't align with the actual goals
 
 ###### Wed Jun 12 15:21:49 BST 2019
 
-Be clear about the tradeoffs in technical design.  Be clear about how risk-tolerant and error-tolerant you are.
+Be clear about the tradeoffs in technical design. Be clear about how risk-tolerant and error-tolerant you are.
 
 From day one, think about quality, security, and privacy on the system
 
-Put the team at the heart of everything.  The team that is building the system is the most important thing.  
+Put the team at the heart of everything. The team that is building the system is the most important thing.
 
-Hire Responsibly.  Never lower your hiring bar.  You will continue to pay the price the entire time.
+Hire Responsibly. Never lower your hiring bar. You will continue to pay the price the entire time.
 
-Work in a sustainable way.  Burn out is very costly.  Should not have a "hero" mentality.
+Work in a sustainable way. Burn out is very costly. Should not have a "hero" mentality.
 
 Monitor for your team's psychological safety.
 
-Build mechanisms for the teams and roles to communicate across boundaries.  Make sure everyone has shared understanding about what we're building.  Communication from bottom-up is important.  
+Build mechanisms for the teams and roles to communicate across boundaries. Make sure everyone has shared understanding about what we're building. Communication from bottom-up is important.
 
-Takeaways - Be clear on the goal.  Communicate openly.  Hire responsibly.  Care for people.
+Takeaways - Be clear on the goal. Communicate openly. Hire responsibly. Care for people.
 
 ## Facilitation techniques 202 - 15:50 - Neha Batra - A+ talk, should watch again
 
 ###### Wed Jun 12 15:46:32 BST 2019
 
-1) Set the stage 
-    * Use an agenda.  
-    * Have a timeline and topics.  Lets people know when to speak up
-    * Include breaks.  Guaranteed quiet time.
-    * Set breaks after heady topics
-    * Check off the agenda items
-    * Come in before the meeting and setup with notes and snacks.
-    * Make sure everyone has a seat
-    * Talk about feelings with everyone sitting down.
-    * Post it super sticky portable tabletop easle pad with dry erase board
-2) Engage - Get people to have a rhythm
-    * Split into pairs
-    * Individual thinking
-    * Share, voluntarily, individually
-    * Write on a white board
-    * Facilitating vs. Talking... just facilitate
-    * Prompt on the white board for what to do. Have an alarm.
-    * Align Roles
-3) Include all personalities
-    * Steamrollers vs quieter folks
-      * Post its + round robins with post its
-      * Museum walks (have people walk around the room, looking at the big sticky sheets)
-      * Share 1 idea each
-      * Dot vote
-      * Breakout groups to limit surface area
-      * Time to think before sharing, warn for shy people
-      * Set a rule for having three people speak before one person speaks again
-      * Take a break when things get heated
-4) Finish
-    * Appreciations
-    * Retros
-    * Swag
-    * Have an action item!!  
+1. Set the stage
+   - Use an agenda.
+   - Have a timeline and topics. Lets people know when to speak up
+   - Include breaks. Guaranteed quiet time.
+   - Set breaks after heady topics
+   - Check off the agenda items
+   - Come in before the meeting and setup with notes and snacks.
+   - Make sure everyone has a seat
+   - Talk about feelings with everyone sitting down.
+   - Post it super sticky portable tabletop easle pad with dry erase board
+2. Engage - Get people to have a rhythm
+   - Split into pairs
+   - Individual thinking
+   - Share, voluntarily, individually
+   - Write on a white board
+   - Facilitating vs. Talking... just facilitate
+   - Prompt on the white board for what to do. Have an alarm.
+   - Align Roles
+3. Include all personalities
+   - Steamrollers vs quieter folks
+     - Post its + round robins with post its
+     - Museum walks (have people walk around the room, looking at the big sticky sheets)
+     - Share 1 idea each
+     - Dot vote
+     - Breakout groups to limit surface area
+     - Time to think before sharing, warn for shy people
+     - Set a rule for having three people speak before one person speaks again
+     - Take a break when things get heated
+4. Finish
+   - Appreciations
+   - Retros
+   - Swag
+   - Have an action item!!
 
 ## A button to pause time: how to live outside the clock - 16:00 - Sal Freudenberg and Clare Sudbery
 
 ###### Wed Jun 12 16:03:10 BST 2019
 
-Story about their hackathon.  Followed a lightweight SCUM method
+Story about their hackathon. They uses a "puck" IOT device. Followed a lightweight SCUM method
 
-Fable cries when she gets out of REM and notices we're gone.
-
-Sleep deficiency affects us in myriad negative ways.  Pretty much every negative way. 
+Sleep deficiency affects us in myriad negative ways. Pretty much every negative way.
 
 Evolution has made some of us early risers (Larks), some of us night owls
 
-Spoon theory ... Lupus story... "I'm low on spoons"  "I'm out of spoons"
+Spoon theory ... Lupus story... "I'm low on spoons" "I'm out of spoons"
 
 Flexible working - give parents flexible hours
 
@@ -785,5 +833,3 @@ Some People need control over their own lives and their own schedule.
 Some people need structure and routine.
 
 Provide a structure for people to live within, but provide flexibility so people can practice self care
-
-puck iot device ?
