@@ -10,7 +10,7 @@ tags:
 ---
 I've been using Github Copilot in my daily coding activity for the last two weeks, and I just can't anymore.
 
-I read a post on Hacker News this morning talking about the (security vulnerabilities)[https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902] of Copilot.  It's really struck a chord with me, not because of the security implications or licensing issues, but because of the implication of the entire piece.  Copilot makes bugs.
+I read a post on Hacker News this morning talking about the [security vulnerabilities](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902) of Copilot.  It's really struck a chord with me, not because of the security implications or licensing issues, but because of the implication of the entire piece.  Copilot makes bugs.
 
 Talking about bugs in software development is like talking about the air for developers.  We all know what it is, ironically with continuous effort to understand it, with sparse agreement on the best remedy, yet it remains utterly vital every moment.
 
