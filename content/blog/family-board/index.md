@@ -2,7 +2,7 @@
 title: "Creating a Family Electronic Bulletin Board"
 date: "2019-02-25T14:19:02Z"
 layout: post
-draft: true
+draft: false
 path: "/family-board/"
 description: "Creating a family electronic bulletin board"
 tags:

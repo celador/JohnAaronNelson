@@ -2,14 +2,12 @@
 title: "I just can't do this anymore, Copilot"
 date: "2021-07-12T15:27:31.004Z"
 layout: post
-draft: true
+draft: false
 path: "/i-cant-anymore-with-copilot/"
 description: ""
 tags:
   - "development"
 ---
-# I just can't do this anymore, Copilot
-
 I've been using Github Copilot in my daily coding activity for the last two weeks, and I just can't anymore.
 
 I read a post on Hacker News this morning talking about the (security vulnerabilities)[https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902] of Copilot.  It's really struck a chord with me, not because of the security implications or licensing issues, but because of the implication of the entire piece.  Copilot makes bugs.

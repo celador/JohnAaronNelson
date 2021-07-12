@@ -2,7 +2,7 @@
 title: "Learning to ride the bike."
 date: "2018-6-1T05:00:00Z"
 layout: post
-draft: false
+draft: true
 path: "/just-do-it/"
 description: "Stop thinking so much and just do it."
 ---

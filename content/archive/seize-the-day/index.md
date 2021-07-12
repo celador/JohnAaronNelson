@@ -1,5 +1,5 @@
 ---
-title: "seize the day"
+title: "Seize The Day"
 date: "2020-07-21T04:09:23.984Z"
 layout: post
 draft: true
@@ -8,9 +8,6 @@ description: "Notes on death"
 tags:
   - "hemingway"
 ---
-
-# Seize The Day
-
 I have an image of a skull hanging in my bathroom with these words. Seize The Day.  What does that mean?  
 
 You don't realize a day is important until the day after.
