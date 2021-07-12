@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `John Aaron Nelson`,
     author: `John Nelson`,
-    description: `Web Developer | Clearbit | Chattahooligan`,
+    description: `Web Developer @ Batch.sh`,
     siteUrl: `https://johnaaronnelson.com/`,
     social: {
       twitter: `johnaaronnelson`,
