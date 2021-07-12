@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+// import logo from "./../../content/assets/logo.png"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -46,6 +47,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
+            {/* <img src={logo} style={{ height: "1.4427rem;" }} /> */}
             {title}
           </Link>
         </h3>
