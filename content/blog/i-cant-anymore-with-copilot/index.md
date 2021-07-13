@@ -26,7 +26,7 @@ It seems as if everyone has an opinion on Copilot.  Everyone... it's everywhere.
 
 My experience:  Copilot injects continual subtle bugs into my code, everywhere from variable names, and comments, to complex functions.  It seems as if it's always wrong, but sometimes it's right, only for me to go back and see how wrong it was, all while questioning myself, that maybe it was right all along... regardless, nothing I write is even close to what Copilot is suggesting.  And to me, that's the worst part.  
 
-It takes me out of my flow.  Instead of being able to simple talk my way through a problem in my head, and write out the answer, I'm continually interrupted by my copilot, with something that _seems_ reasonable, usually wrong, and never what I really want.  My productivity has noticeably dropped.
+It takes me out of my flow.  Instead of being able to simply talk my way through a problem in my head, and write out the answer, I'm continually interrupted by my copilot, with something that _seems_ reasonable, usually wrong, and never what I really want.  It's like having a jr developer constantly chirping in my ear. "Would this code work?" My productivity has noticeably dropped.
 
 What are revolutionary development tools?  Existing libraries, TDD, XP, Refactoring tools, etc... We already have all the tools we need to squash bugs.  We simply don't apply them.
 
