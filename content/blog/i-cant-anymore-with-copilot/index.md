@@ -30,6 +30,6 @@ It takes me out of my flow.  Instead of being able to simply talk my way through
 
 What are revolutionary development tools?  Existing libraries, TDD, XP, Refactoring tools, etc... We already have all the tools we need to squash bugs.  We simply don't apply them.
 
-Yet again, here we are, expecting some magical shortcut to writing software where we don't have to write it, only to realize after much effort and consternation that we still have to use our Brains. 
+Yet again, here we are, expecting some magical shortcut to writing software where we don't have to write it, only to realize after much effort and consternation that we still have to use our Brains.
 
 Brains are still valuable, much to our chagrin.
