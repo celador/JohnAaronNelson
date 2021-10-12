@@ -47,6 +47,7 @@ yarn create react-app my-app --template typescript
 yarn add todomvc-app-css
 yarn add react-redux
 yarn add react-router
+yarn add redux-observable
 ```
 
 ### The Good Bits
