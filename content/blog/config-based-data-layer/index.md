@@ -48,6 +48,7 @@ yarn add todomvc-app-css
 yarn add react-redux
 yarn add react-router
 yarn add redux-observable
+yarn add @reduxjs/toolkit
 ```
 
 ### The Good Bits
