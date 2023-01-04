@@ -27,7 +27,7 @@ A "Live" sync is performed whenever a record is created or changed. When a recor
 
 #### Refresh Sync
 
-A "Refresh" sync is performed on periodic, scheduled basis. The service queries Salesforce for all related objects (often Accounts or Leads) and emits a sync It is usually best run this scheduled sync during off hours, typically on the weekends when your customers usage of Salesforce is limited, and your limits are most relaxed. This will keep your process running as efficiently as possible, while limiting the effects on your customers.
+A "Refresh" sync is performed on a periodic, scheduled basis. The service queries Salesforce for all related objects (often Accounts or Leads) and emits a sync request for those objects in batches of 100. Refresh syncs should be scheduled to run during off hours, typically on the weekends when your customers usage of Salesforce is limited, and your limits are most relaxed. This will keep your process running as efficiently as possible, while limiting the effects on your customers.
 
 ### Architecture Components
 
@@ -38,12 +38,12 @@ A [Salesforce Packaging Org](https://trailhead.salesforce.com/en/content/learn/m
 - Custom Objects: Used as your data repository. You can think of this as a table or sheet in a spreadsheet. These objects hold all the Fields and their definitions. Any record is like a row in that table. The field definitions define what kind of field makes up the column, i.e. text, number, date and their properties: length, scale, precision...
 - Platform Event: This is what represents a sync request. It is a record (similar to a Custom Object record) that is generated as part of the sync request. This is the record that will go into the queue. The Platform Event also has Fields, but each record exists as part of a stream, having each record associated to a sequential-ish "Replay ID" number. Platform Events are the core piece of the Live sync process. Using this provides for the utmost customization since they can be emitted in a variety of ways, with even the simplest point-and-click tools available in Salesforce.
 - Flow(s): We need something to emit the Platform Event. This is that something. Flows can be created in a variety of ways, such as Process Builder, Process Automation, or workflow rules. This component will be the thing that emits the Platform Event. An alternative to building a flow is writing custom Apex or Triggers. Regardless of how the Platform Event is emitted, something needs to exist to emit the Event. We find it easiest to use simple point-and-click tools that already exist in Salesforce, such as Process Builder Flows.
-- Permission Set: A Salesforce Permission Set is recommended to provide access to the Custom Objects that are part of your package. By default, any record in Salesforce is not visible or readable by anyone, except for Admins with special rights. In order for your sync to work, the customer needs access to those fields. A Permission Set that provides access to every Field in your package is the recommended way to do this.
-- Page Layout: A page layout for your Custom Objects is a nice way to surface your data to your customers. If you don't have a page layout available, your customers will have to figure out how to find the data
+- Permission Set: A Salesforce Permission Set is recommended to provide access to the Custom Objects that are part of your package. By default, any record in Salesforce is not visible nor readable by anyone, except for Admins. In order for your sync to work, the customer's user needs access to those fields. A Permission Set that provides access to every Field in your package is the recommended way to do this. If trouble arises, first make sure the user has the appropriate permission set.
+- Page Layout: A page layout for your Custom Objects is a nice way to surface your data to your customers, with a specific arrangement for how your fields will be layed out. If you don't have a page layout available, your customers will have to make one of their own just so they can see the data.
 
 #### Backend Sync Components
 
-Node.js is used as the technology to perform the sync process. We chose Node, because of the availability of supported libraries, such as CometD and JSforce.
+Node.js is used as the technology to perform the sync process. Node is the best choice because of the availability of supported libraries, such as CometD and JSforce, along with good support for databases (Redis is a good choice), and other platforms.
 
 ##### Platform Event listener using CometD
 
